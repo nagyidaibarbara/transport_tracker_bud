@@ -2223,3 +2223,10 @@
 2025-12-17 12:36:14,327 - backend.services.data_service - INFO - Elindult az idõzített adatgyûjtési pipeline.
 2025-12-17 12:36:14,327 - backend.services.data_service - WARNING - Mock adatokat használunk! Cserélje le a BKK_API_URL-t valósra!
 2025-12-17 12:36:14,333 - backend.services.data_service - INFO - Sikeresen mentett 2 új pozíciót.
+2025-12-17 12:36:22,267 - root - INFO - Logolás beállítva.
+2025-12-17 12:36:22,267 - root - INFO - FastAPI Backend indítása (http://0.0.0.0:8000)
+2025-12-17 12:36:23,632 - root - INFO - Logolás beállítva.
+2025-12-17 12:36:23,636 - backend.main - INFO - FastAPI Alkalmazás indítása...
+2025-12-17 12:36:23,639 - backend.main - INFO - Adatbázis inicializálva.
+2025-12-17 12:36:23,639 - backend.background_tasks.scheduler - INFO - Scheduler elindult. Adatgyûjtés 10 másodpercenként.
+2025-12-17 12:36:23,640 - backend.main - INFO - Háttér ütemezõ elindítva.
